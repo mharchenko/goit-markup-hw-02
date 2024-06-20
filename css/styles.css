@@ -62,7 +62,7 @@ body {
 
 .contacts-link:hover,
 .contacts-link:focus {
-    color: #404bbf;
+    color: #404BBF;
 }
 
 .start-section {
@@ -74,7 +74,7 @@ body {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.07143;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
@@ -89,16 +89,18 @@ body {
     letter-spacing: 0.04em;
     color: #fff;
     background: #4d5ae5;
+    cursor: pointer;
 }
 
 .title {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 
 .title-explanation {
@@ -117,6 +119,14 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
+
+.our-team-foto {
+    background-color: #F4F4FD;
+}
+
+.explanation-foto {
+    background-color: #FFFFFF
 }
 
 .foto {
@@ -174,7 +184,7 @@ body {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
@@ -184,7 +194,7 @@ body {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #f4f4fd;

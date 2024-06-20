@@ -48,7 +48,7 @@ body {
 
 .meny-link:hover,
 .meny-link:focus {
-    background-color: #404BBF;
+    color: #404bbf;
 }
 
 .contacts-link {
@@ -62,7 +62,7 @@ body {
 
 .contacts-link:hover,
 .contacts-link:focus {
-    background-color: #404BBF;
+    color: #404bbf;
 }
 
 .start-section {
@@ -91,6 +91,12 @@ body {
     background: #4d5ae5;
     cursor: pointer;
 }
+
+.start-button:hover,
+.start-button::focus {
+    background-color: #404BBF;
+}
+
 
 .title {
     font-family: "Roboto", sans-serif;

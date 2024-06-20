@@ -93,7 +93,7 @@ body {
 }
 
 .start-button:hover,
-.start-button::focus {
+.start-button:focus {
     background-color: #404BBF;
 }
 

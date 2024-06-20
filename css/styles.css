@@ -48,7 +48,7 @@ body {
 
 .meny-link:hover,
 .meny-link:focus {
-    color: #404bbf;
+    background-color: #404BBF;
 }
 
 .contacts-link {
@@ -62,7 +62,7 @@ body {
 
 .contacts-link:hover,
 .contacts-link:focus {
-    color: #404BBF;
+    background-color: #404BBF;
 }
 
 .start-section {
